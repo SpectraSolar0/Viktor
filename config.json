@@ -1,0 +1,8 @@
+{
+  "token": const token = process.env.TOKEN;,
+  "guildId": "1470709166224969851",
+  "ticketCategory": "1470811271090803002",
+  "staffRoleId": "1470808794782105768",
+  "autoRoleId": "1470724027730497620",
+  "welcomeChannelId": "1470709167001178360"
+}
