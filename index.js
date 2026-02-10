@@ -12,6 +12,20 @@ const client = new Client({
 });
 
 // =====================
+// 🌐 EXPRESS
+// =====================
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get("/", (req, res) => {
+  res.send("🤖 Azuria IA est en ligne !");
+});
+
+app.listen(PORT, () => {
+  console.log(`🌍 Serveur Express lancé sur le port ${PORT}`);
+});
+
+// =====================
 // 🔄 STATUT DU BOT
 // =====================
 const statuses = [
