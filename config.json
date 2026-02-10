@@ -1,5 +1,5 @@
 {
-  "token": const token = process.env.TOKEN;,
+  "token": "MTQ3MDgwOTQ3NDI4MDMyNTIwMw.GhRuII.MRlKSi6UpF4eRpUff33vvOfhp1jD6kayAuQt-g",
   "guildId": "1470709166224969851",
   "ticketCategory": "1470811271090803002",
   "staffRoleId": "1470808794782105768",
